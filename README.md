@@ -102,3 +102,8 @@
   </a>
 </div>
 
+
+### Spotify Playing :headphones:
+
+[![Spotify](https://novatorem-one-ivory.vercel.app
+/api/spotify)](https://open.spotify.com/user/31e7o7hu6censyh5v5s2mcatfcm4)
