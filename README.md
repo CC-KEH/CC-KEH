@@ -105,5 +105,8 @@
 
 ### Spotify Playing :headphones:
 
-[![Spotify](https://novatorem-one-ivory.vercel.app
-/api/spotify)](https://open.spotify.com/user/31e7o7hu6censyh5v5s2mcatfcm4)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-one-ivory.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31e7o7hu6censyh5v5s2mcatfcm4)
+</div>
+
+
