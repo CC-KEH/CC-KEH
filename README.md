@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🌱 I’m currently learning Flutter and Data Science<br><br>⚡ Apart from development I love watching twitch streams and play csgo.</h4>
+<h4 align="left">🌱 I’m currently working on Data Science projects <br><br>⚡ Apart from development I love watching twitch streams and play csgo.</h4>
 
 ###
 
