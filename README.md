@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/arbash-hussain-08b914225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arbash-hussain-08b914225" height="30" width="40" /></a>
 <a href="https://kaggle.com/c.c-keh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="c.c-keh" height="30" width="40" /></a>
-<a href="https://hashnode.com/@cckeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cckeh" height="30" width="40" /></a>
+<a href="https://cckeh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cckeh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
