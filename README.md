@@ -8,7 +8,7 @@
 
 - 📄 Know about my experiences [https://arbash.vercel.app/assets/Arbash.pdf](https://arbash.vercel.app/assets/Arbash.pdf)
 
-- ⚡ Fun fact **Apart from development I love watching twitch streams and play video games.**
+- ⚡ Apart from development I love watching twitch streams and play video games.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
